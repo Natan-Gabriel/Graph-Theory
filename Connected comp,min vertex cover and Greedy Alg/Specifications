@@ -1,0 +1,26 @@
+My app have the following functionalities:
+1.Check whether a pair is an edge
+2.Add an edge
+3.Delete an edge
+4.Check whether a point is a vertex
+5.Add a vertex
+6.Delete a vertex
+7.Print number of vertices
+8.Print the in-degree of a given vertex
+9.Print the out-degree of a given vertex
+10.Parse vertices
+11.Parse inbound vertices
+12.Parse outbound vertices
+13.Make a copy of the graph
+14.See the cost between 2 edges
+15.Modify the cost between 2 edges
+16.Create random
+17.Print connected components
+18.Min cost between 2 given vertices
+19.Print the number of distinct walks of minimum cost between 2 vertices
+20.Print number of all paths between 2 vertices
+21.Minimum time for crossing the bridge
+22.Print matrix
+23.Minimum vertex cover using binary search
+24.Minimum vertex cover using aproximation algorithm
+25.Greedy algorithm
